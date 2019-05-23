@@ -1,8 +1,11 @@
 class MyClass{
 	void myMethod(){
-		sysout("my")
+		sysout("myMehtod get modified")
 	}
 	main(){
+		myMethod()
 		sysout("Hello Git");
 	}
+
+	
 }
