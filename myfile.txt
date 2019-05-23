@@ -1,4 +1,7 @@
 class MyClass{
+	void myMethod(){
+		sysout("my")
+	}
 	main(){
 		sysout("Hello Git");
 	}
