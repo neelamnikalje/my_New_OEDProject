@@ -10,6 +10,8 @@ class MyClass{
 		obj.myMethod() //mumethod call by myclass boject
 		sysout("Hello Git");
 
+		// Change 1 in main
+
 	}
 
 	
