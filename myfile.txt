@@ -1,14 +1,14 @@
 class MyClass{
 
 	static void myMethod(){
-		sysout("myMehtod get modified")
+		system.out.printIn("I have got a new Idea...yyy.")
 	}
 	
 
 	public static void main(string arg[]){
 	myClass obj = new myClass():
 		obj.myMethod() //mumethod call by myclass boject
-		sysout("Hello Git");
+		sysem.out.printIn("Hello Git");
 
 		// Change 1 in main
 
