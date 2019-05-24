@@ -1,9 +1,11 @@
 class MyClass{
 	void myMethod(){
-		sysout("myMehtod get modified")
+		sysout("myMehtod business logic")
 	}
-	main(){
-		myMethod()
+
+	public static void main(string arg[]){
+	myClass obj = new myClass():
+		obj.myMethod()
 		sysout("Hello Git");
 	}
 
