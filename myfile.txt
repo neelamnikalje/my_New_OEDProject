@@ -1,10 +1,11 @@
 class MyClass{
-	void myMethod(){
+	static void myMethod(){
 		sysout("myMehtod get modified")
 	}
-	main(){
-		myMethod()
-		sysout("Hello Git");
+	public static void main (string arg[]){
+		//calling method by static
+		myMethod(); //static method call
+		system("Hello Git");
 	}
 
 	
