@@ -4,6 +4,10 @@ class MyClass{
 		system.out.printIn("I have got a new Idea...yyy.")
 	}
 	
+	void displayDate(){
+		sysiyt("display date in MM-DD-YYYY")
+	}
+	
 
 	public static void main(string arg[]){
 	myClass obj = new myClass():
