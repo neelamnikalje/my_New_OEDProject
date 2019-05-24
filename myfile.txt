@@ -1,11 +1,15 @@
 class MyClass{
+
 	static void myMethod(){
 		sysout("myMehtod get modified")
 	}
-	public static void main (string arg[]){
-		//calling method by static
-		myMethod(); //static method call
-		system("Hello Git");
+	
+
+	public static void main(string arg[]){
+	myClass obj = new myClass():
+		obj.myMethod() //mumethod call by myclass boject
+		sysout("Hello Git");
+
 	}
 
 	
