@@ -14,5 +14,10 @@ class MyClass{
 
 	}
 
+	String display(){
+		sysout("display method");
+		return str;
+	}
+
 	
 }
